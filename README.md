@@ -9,9 +9,9 @@ This password generator is designed to generate a secure, memorable password usi
 
 # Usage and Examples
 - python password-gen.py
-babytacovaccuumtree
+Result: babytacovaccuumtree
 
 - python password-gen.py -w 3 -c 3 -n 5 -s 2
-b1Abyt%a3cOv8ac&cUu7m5
+Result: b1Abyt%a3cOv8ac&cUu7m5
 
 
